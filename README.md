@@ -51,11 +51,15 @@ LLM Agents · Automation · APIs · Knowledge Systems · Workflow Design
 
 > Build useful systems first. Make them reliable. Then make them scale.
 
-## 📈 GitHub Snapshot
+## 🚦 Lab Status
 
-![Insu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mis8680-lab&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile README](https://img.shields.io/badge/Profile_README-active-38BDAE?style=for-the-badge)
+![Lab Focus](https://img.shields.io/badge/Focus-AI_Automation-70A5FD?style=for-the-badge)
+![Build Mode](https://img.shields.io/badge/Mode-Building_Blocks-BF91F3?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mis8680-lab&layout=compact&theme=tokyonight&hide_border=true)
+```text
+Current mode: building the foundation — agents, workflows, wiki, and lab operations.
+```
 
 ## 📫 Connect
 
