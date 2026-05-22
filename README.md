@@ -4,21 +4,27 @@
 
 I run a small but ambitious automation lab where ideas become working tools — from AI agents and Discord operations to GitHub, Google Workspace, content workflows, and market-intelligence experiments.
 
-## 🚀 About Me
+## 🧭 Focus
 
-- 🧠 Building practical AI-agent workflows with **Hermes Agent**
+```text
+AI Agents · Automation · Lab Infrastructure · Workflow Systems · Knowledge Ops
+```
+
+- 🧠 Designing practical AI-agent workflows with **Hermes Agent**
 - ⚙️ Automating operations across **Discord, GitHub, Google Workspace, and APIs**
 - 🧪 Running a hands-on lab for agent orchestration, workflow design, and infrastructure experiments
 - 📊 Exploring useful automation for stock intelligence, knowledge systems, and content production
-- 🛠️ Focused on tools that make small teams operate smarter and faster
+- 🛠️ Building tools that help small teams operate smarter and faster
 
-## 🧪 Current Lab Projects
+## 🧪 Lab Projects
 
-- **Hermes Lab** — an AI-agent operations hub for personal and lab automation
-- **Lab Wiki** — a structured knowledge base for decisions, setup notes, and experiments
-- **Discord Multi-Agent Ops** — role-based agents supporting lab operations and workflows
-- **Warren Buffett Agent** — multi-source stock monitoring and practical market alerts
-- **Money Pulse** — AI-assisted YouTube Shorts research and production pipeline
+| Project | What it does |
+|---|---|
+| **Hermes Lab** | AI-agent operations hub for personal and lab automation |
+| **Lab Wiki** | Structured knowledge base for decisions, setup notes, and experiments |
+| **Discord Multi-Agent Ops** | Role-based agents supporting lab operations and workflows |
+| **Warren Buffett Agent** | Multi-source stock monitoring and practical market alerts |
+| **Money Pulse** | AI-assisted YouTube Shorts research and production pipeline |
 
 ## 🛠️ Tech & Tools
 
@@ -30,11 +36,11 @@ I run a small but ambitious automation lab where ideas become working tools — 
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ```text
-AI Agents · Automation · APIs · Workflow Design · Knowledge Systems
 Python · Node.js · Linux · GitHub · Discord · Google Workspace
+LLM Agents · Automation · APIs · Knowledge Systems · Workflow Design
 ```
 
-## 🌱 Currently Learning & Building
+## 🌱 Currently Building Toward
 
 - Better multi-agent orchestration patterns
 - Reliable automation pipelines with clear verification steps
@@ -44,6 +50,12 @@ Python · Node.js · Linux · GitHub · Discord · Google Workspace
 ## 📌 Operating Principle
 
 > Build useful systems first. Make them reliable. Then make them scale.
+
+## 📈 GitHub Snapshot
+
+![Insu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mis8680-lab&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mis8680-lab&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Connect
 
